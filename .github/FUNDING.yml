@@ -1,0 +1,11 @@
+github: [user1, user2]
+patreon: user_patreon_username
+open_collective: user_open_collective_username
+ko_fi: user_ko_fi_username
+tidelift: npm/package_name
+community_bridge: project_name
+liberapay: user_liberapay_username
+issuehunt: user_issuehunt_username
+lfx_crowdfunding: project_name
+polar: user_polar_username
+custom: ['custom_link1', 'custom_link2']
